@@ -2,7 +2,7 @@
 
 ## GitHub Pages
 
-**You can see a live version of this webpage here: [UFOs - The Truth is Out There](https://sdcoulter.github.io/bc/module11/index.html)**
+**You can see a live version of this webpage here: [UFOs - The Truth is Out There](https://sdcoulter.github.io/UFOs/index.html)**
 
 ## Challenge - Overview
 
